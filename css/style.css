@@ -1,0 +1,17 @@
+.box {
+  padding: 25px;
+  background-color: #70db70;
+  margin: 20px auto;
+  max-width: 75%;
+  align-items: center
+} 
+h1 {
+  font-size: 2.5em;
+  color: #cc3333;
+  text-align: center;
+}
+h2 {
+  font-size: 2em;
+  color: #cc8033;
+  margin-top: 20px;
+}
