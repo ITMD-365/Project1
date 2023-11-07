@@ -45,3 +45,11 @@ img {
 	width: 50%;
 	margin: auto;
 }
+
+/*min-width media queries*/
+@media (min-width: 600px) {
+  img{
+    width: 40%;
+    margin: auto;
+  }
+  
