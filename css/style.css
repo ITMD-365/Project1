@@ -1,9 +1,9 @@
 body {
-  background-color: #008000
+  background-color: #2C5F2D
 }
 .box {
   padding: 25px;
-  background-color: #70db70;
+  background-color: #97BC62FF;
   margin: 20px auto;
   max-width: 75%;
   align-items: center
@@ -49,3 +49,13 @@ img {
 }
 
 /*min-width media queries*/
+@media (300px <= width <= 600px) {
+	body{
+		background: #2BAE66FF;
+	}
+}
+@media (300px <= width <= 600px) {
+	.box{
+		background: #FCF6F5FF;
+	}
+}
